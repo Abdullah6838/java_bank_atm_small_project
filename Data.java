@@ -40,7 +40,7 @@ class Function extends Data
     {
         System.out.print("\033[H\033[2J");
     }
-
+    //otp generate
     public void OTP() {
         String allChars = "0123456789";
 
