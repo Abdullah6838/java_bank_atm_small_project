@@ -160,12 +160,10 @@ ATM Menu
 
 ## 👨‍💻 Author
 
-Developed as a Java learning project to practice:
+**Abdullah**
 
-- Object-Oriented Programming (OOP)
-- Java Fundamentals
-- ATM System Logic
-- Console Application Development
+- **<a href="https://github.com/abdullah6838" target="_blank">GitHub</a>**
+- **<a href="https://linkedin.com/in/abdullah6838" target="_blank">LinkedIn</a>** 
 
 ---
 
